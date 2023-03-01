@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html {
+    font-size: 150%;
+}
+#addPet {
+    text-align: center;
+    margin: 2rem;
+}
+#tamagachi {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+    
+}
+.container {
+    text-align: center;
+    margin: 3rem;
+    width: auto;
+    border: green solid 1px;
+}
+.dead {
+    border: red solid 1px !important;
+}
